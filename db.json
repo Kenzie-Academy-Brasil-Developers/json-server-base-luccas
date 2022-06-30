@@ -6,6 +6,71 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "luccas@kenzie.com",
+      "password": "$2a$10$U7bfE7rLjQYLDNEuTMippOvppdf3Z8Zof.ZMBPHrCIWuFmWAq8Y/C",
+      "name": "Luccas",
+      "age": 22,
+      "id": 2
+    }
+  ],
+  "sports": [
+    {
+      "name": "basquete",
+      "practiceTime": "6 years",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "futebol",
+      "practiceTime": "16 years",
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "name": "futebol",
+      "practiceTime": "16 years",
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "name": "futebol",
+      "practiceTime": "20 years",
+      "userId": 2,
+      "id": 4
+    }
+  ],
+  "passwords": [
+    {
+      "plataform": "instagram",
+      "password": "kenzinhoinsta123",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "plataform": "instagram",
+      "password": "kenzinhoinsta123",
+      "userId": 2,
+      "id": 2
+    },
+    {
+      "plataform": "instagram",
+      "password": "kenzinhoinsta123",
+      "userId": 2,
+      "id": 3
+    },
+    {
+      "plataform": "facebook",
+      "password": "kenzinhoface123",
+      "userId": 1,
+      "id": 4
+    },
+    {
+      "plataform": "cartola FC",
+      "password": "kenzinhocartola123",
+      "userId": 1,
+      "id": 5
     }
   ]
 }
